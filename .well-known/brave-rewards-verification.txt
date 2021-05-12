@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: piratehub.netlify.app
+Token: 8fc8cd3879e4342d1a2b346e855b3027a7fde72c76d69956fcb3e36f9d1f65ee
